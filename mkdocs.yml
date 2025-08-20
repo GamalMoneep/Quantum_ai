@@ -1,14 +1,14 @@
 # SEO and site configuration
 site_name: Community Lecture Archive
 site_description: Archive of weekly lectures and monthly events with links to videos and resources
-site_url: https://yourusername.github.io/quantum-ai/
+site_url: https://gamalmoneep.github.io/quantum-ai/
 site_author: Quantum Computing Community
 
 # SEO keywords and meta
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/yourusername/quantum-ai
+      link: https://github.com/gamalmoneep/quantum-ai
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@yourchannel
   analytics:
