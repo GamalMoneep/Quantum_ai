@@ -16,6 +16,12 @@ Fundamental concepts of quantum computing, including qubits, superposition, and 
 
 Deep dive into quantum algorithms including Grover's search algorithm and Shor's factoring algorithm.
 
+### Week 3: Quantum Machine Learning
+**Date:** 2024-01-29 | **Duration:** 90 minutes
+[View Lecture →](week-03.md)
+
+Explore the intersection of quantum computing and machine learning with quantum neural networks and variational algorithms.
+
 ## Lecture Format
 
 Each lecture page includes:
