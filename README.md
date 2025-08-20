@@ -1,6 +1,6 @@
 # Community Lecture Archive
 
-[![Deploy to GitHub Pages](https://github.com/yourusername/quantum-ai/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/yourusername/quantum-ai/actions)
+[![Deploy to GitHub Pages](https://github.com/gamalmoneep/quantum-ai/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/gamalmoneep/quantum-ai/actions)
 [![MkDocs](https://img.shields.io/badge/MkDocs-Material-blue.svg)](https://squidfunk.github.io/mkdocs-material/)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 
@@ -27,7 +27,7 @@ A professional lecture archive website built with MkDocs Material theme, showcas
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/quantum-ai.git
+   git clone https://github.com/gamalmoneep/quantum-ai.git
    cd quantum-ai
    ```
 
@@ -137,13 +137,13 @@ The site automatically deploys to GitHub Pages when you push to the `main` or `m
    ```bash
    git add .
    git commit -m "Add new lecture: Week 4"
-   git push origin main
+   git push origin master
    ```
 
 2. **Monitor deployment**
-   - Check the [GitHub Actions](https://github.com/yourusername/quantum-ai/actions) tab
+   - Check the [GitHub Actions](https://github.com/gamalmoneep/quantum-ai/actions) tab
    - Deployment typically takes 2-3 minutes
-   - Site will be available at `https://yourusername.github.io/quantum-ai/`
+   - Site will be available at `https://gamalmoneep.github.io/quantum-ai/`
 
 ### Manual Deployment
 
@@ -188,8 +188,8 @@ Custom styles are in `docs/assets/stylesheets/extra.css`:
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/quantum-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/quantum-ai/discussions)
+- **Issues**: [GitHub Issues](https://github.com/gamalmoneep/quantum-ai/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/gamalmoneep/quantum-ai/discussions)
 - **Email**: your-email@example.com
 
 ## 📄 License
