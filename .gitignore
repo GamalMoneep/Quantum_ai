@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# MkDocs build output
+site/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Misc
+.env
+.env.*
+.cache/
+
+userinput.py
+.cursorrules
+.cursor/
+.cursor/rules/*
+planning.md
+task.md
