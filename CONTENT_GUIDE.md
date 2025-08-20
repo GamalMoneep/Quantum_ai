@@ -29,8 +29,8 @@ description: "Week X: [Title] - [Brief description for SEO, exactly 150-160 char
 [Watch on YouTube](https://youtube.com/watch?v=VIDEO_ID)
 
 ## Materials
-- [Slides (PDF)](https://github.com/gamalmoneep/quantum-ai/raw/main/slides/week-XX-title.pdf)
-- [Code Repository](https://github.com/gamalmoneep/quantum-examples)
+- [Slides (PDF)](https://github.com/GamalMoneep/Quantum_ai/raw/main/slides/week-XX-title.pdf)
+- [Code Repository](https://github.com/GamalMoneep/quantum-examples)
 
 ## Topics Covered
 - [Topic 1]
@@ -104,8 +104,8 @@ description: "[Month] [Year] Community Meetup - [Brief description for SEO, exac
 - **8:30 PM**: Closing remarks
 
 ## Materials
-- [Workshop Slides](https://github.com/gamalmoneep/quantum-ai/raw/main/events/[month]-[year]-workshop.pdf)
-- [Additional Materials](https://github.com/gamalmoneep/quantum-ai/raw/main/events/[filename].pdf)
+- [Workshop Slides](https://github.com/GamalMoneep/Quantum_ai/raw/main/events/[month]-[year]-workshop.pdf)
+- [Additional Materials](https://github.com/GamalMoneep/Quantum_ai/raw/main/events/[filename].pdf)
 
 ## Topics Covered
 - [Topic 1]
