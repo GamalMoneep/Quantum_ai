@@ -36,8 +36,11 @@ nav:
   - Home: index.md
   - Lectures:
       - Overview: lectures/index.md
+      - "Week 1: Introduction to Quantum Computing": lectures/week-01.md
+      - "Week 2: Quantum Algorithms": lectures/week-02.md
   - Events:
       - Overview: events/index.md
+      - "January 2024 Community Meetup": events/january-2024.md
   - Resources: resources/index.md
   - Contributors: contributors/index.md
 
