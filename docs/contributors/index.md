@@ -1,5 +1,5 @@
 ---
-description: "Meet the community members who make this lecture archive possible"
+description: "Meet the community members who make this lecture archive possible. Learn about our contributors, maintainers, and how to get involved in the quantum computing community."
 ---
 
 # Contributors

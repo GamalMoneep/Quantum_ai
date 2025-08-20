@@ -1,5 +1,5 @@
 ---
-description: "Community Lecture Archive - Weekly quantum computing lectures and monthly events with videos, slides, and resources"
+description: "Community Lecture Archive - Weekly quantum computing lectures and monthly events with videos, slides, and resources. Learn from experts and join our community."
 ---
 
 # Community Lecture Archive

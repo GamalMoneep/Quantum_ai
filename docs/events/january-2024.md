@@ -1,5 +1,5 @@
 ---
-description: "January 2024 Community Meetup - Quantum Computing Workshop and Networking Event"
+description: "January 2024 Community Meetup - Hands-on quantum computing workshop with networking and Q&A. Join our monthly community event for learning and connection."
 ---
 
 # January 2024 Community Meetup

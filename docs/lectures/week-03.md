@@ -1,5 +1,5 @@
 ---
-description: "Week 3: Quantum Machine Learning - Combining quantum computing with machine learning algorithms"
+description: "Week 3: Quantum Machine Learning - Discover quantum neural networks, feature maps, and hybrid quantum-classical approaches for ML applications."
 ---
 
 # Week 3: Quantum Machine Learning

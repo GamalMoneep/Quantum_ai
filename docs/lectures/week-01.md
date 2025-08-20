@@ -1,5 +1,5 @@
 ---
-description: "Week 1: Introduction to Quantum Computing - Fundamentals and basic concepts for beginners"
+description: "Week 1: Introduction to Quantum Computing - Learn qubits, superposition, and quantum gates. Perfect for beginners starting their quantum journey."
 ---
 
 # Week 1: Introduction to Quantum Computing

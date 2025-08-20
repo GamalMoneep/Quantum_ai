@@ -1,3 +1,7 @@
+---
+description: "Browse weekly quantum computing lectures with video recordings, downloadable materials, and code examples"
+---
+
 # Lectures
 
 Browse weekly lectures by date. Each lecture includes video recordings, downloadable materials, and version history.

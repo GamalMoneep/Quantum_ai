@@ -1,5 +1,5 @@
 ---
-description: "Curated quantum computing resources, tools, and learning materials for the community"
+description: "Curated quantum computing resources, tools, and learning materials. Find books, courses, development tools, and community resources for your quantum journey."
 ---
 
 # Resources

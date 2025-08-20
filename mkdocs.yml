@@ -1,10 +1,32 @@
+# SEO and site configuration
 site_name: Community Lecture Archive
 site_description: Archive of weekly lectures and monthly events with links to videos and resources
 site_url: https://yourusername.github.io/quantum-ai/
+site_author: Quantum Computing Community
+
+# SEO keywords and meta
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername/quantum-ai
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@yourchannel
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  version:
+    provider: mike
 
 # Performance and SEO optimizations
 use_directory_urls: true
 strict: true
+
+# SEO plugins
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
 
 # Additional theme features
 theme:
@@ -39,12 +61,6 @@ theme:
   favicon: assets/favicon.png
   logo: assets/logo.png
 
-plugins:
-  - search
-  - git-revision-date-localized:
-      enable_creation_date: true
-      fallback_to_build_date: true
-
 nav:
   - Home: index.md
   - Lectures:
@@ -57,13 +73,6 @@ nav:
       - "January 2024 Community Meetup": events/january-2024.md
   - Resources: resources/index.md
   - Contributors: contributors/index.md
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/yourusername/quantum-ai
-    - icon: fontawesome/brands/youtube
-      link: https://youtube.com/@yourchannel
 
 extra_css:
   - assets/stylesheets/extra.css

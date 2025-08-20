@@ -1,3 +1,7 @@
+---
+description: "Monthly quantum computing community events featuring workshops, networking sessions, and expert Q&A discussions"
+---
+
 # Events
 
 Monthly community events archive featuring workshops, networking sessions, and expert Q&A.

@@ -1,5 +1,5 @@
 ---
-description: "Week 2: Quantum Algorithms - Understanding Grover's and Shor's algorithms with practical examples"
+description: "Week 2: Quantum Algorithms - Explore Grover's search and Shor's factoring algorithms. Learn how quantum computers solve problems faster than classical."
 ---
 
 # Week 2: Quantum Algorithms
